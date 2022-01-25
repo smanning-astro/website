@@ -25,7 +25,7 @@ featured: false
 image:
   caption: 'Nyhavn in December'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:
@@ -37,9 +37,3 @@ authors:
 NSF GRPF GROW 
 
 While I was there primarily to work and form new research collaborations,I had to make time for some sight seeing as well. 
-
-## 
-
-
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.

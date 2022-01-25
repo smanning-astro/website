@@ -1,9 +1,9 @@
 ---
 title: Backpacking in Grand Canyon National Park
-subtitle: 5 days and 4 nights down and out!  
+subtitle: While in graduate school at UT Austin I ran into a bad crowd. That's right, backpackers.   
 
 # Summary for listings and search engines
-summary: While in graduate school at UT Austin I ran into a bad crowd. That's right, backpackers. 
+#summary:
 
 # Link this post with a project
 #projects: []

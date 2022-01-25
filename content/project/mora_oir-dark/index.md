@@ -6,7 +6,7 @@ tags:
 #date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://ui.adsabs.harvard.edu/abs/2021arXiv211102428M/abstract"
+# external_link: "https://ui.adsabs.harvard.edu/abs/2021arXiv211102428M/abstract"
 
 image:
   caption: Manning et al. 2022
