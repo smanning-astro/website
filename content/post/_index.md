@@ -10,6 +10,6 @@ view: 1
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
+  caption: "Grand Teton National Park"
   image: "teton_wildflowers.jpg"
 ---
